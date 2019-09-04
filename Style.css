@@ -1,0 +1,52 @@
+.table-center-row {
+	text-transform: uppercase;
+}
+.site-title{
+	test-transform: lowercase;
+}
+.centered-ul{
+	text-align:center;
+}
+.centered-image {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+}
+.centered-table {
+	margin-left:auto;
+	margin-right: auto;
+}
+body{
+	text-align:center;
+}
+h1{
+	color:black;
+	text-align:center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+h2 {
+	color:rgba(5,36,15,1.00);
+	text-align:center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+h3 {
+	color:rgba(5,36,15,1.00);
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+a {
+	color:rgba(77,115,208,1.00);
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+p {
+	color:black;
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+td {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+th {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
